@@ -1,0 +1,178 @@
+nav{
+    height:42px ;
+    width: 1248px;
+    margin-top:64px;
+    padding-left: 96px;
+    padding-right: 96px;
+    display: flex;
+    align-items: center;
+    
+}
+
+.categories{
+    padding-left: 326px;
+    padding-right: 48px;
+    height: 27px;
+    width: 576px;
+    display:flex;
+    justify-content: space-between;
+    border-color: black;
+    border-right: solid black 1px;
+}
+
+.cate{
+    font-family: 'Outfit';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+color: black;
+
+}
+
+.search{
+ padding-left: 38px;
+}
+.pic1{
+    background-image: url('Frame1.png');
+    height:643px;
+    width:1440px;
+    background-position-x: 96px;
+    background-position-y: 17px;
+    background-repeat: no-repeat;
+}
+.get{
+    font-family: 'Outfit';
+font-style: normal;
+font-weight: 600;
+font-size: 33px;
+line-height: 43px;
+padding-left:135px;
+padding-top: 243px;
+color: white;
+margin: 0px;
+}
+.shop{
+    font-family: 'Outfit';
+font-style: normal;
+font-weight: 300;
+font-size: 26px;
+line-height: 35px;
+color: white;
+padding-left: 135px;
+padding-top: 5px;
+padding-bottom: 35px;
+margin: 0px;
+
+}
+.coll{
+    font-family: 'Outfit';
+font-style: normal;
+font-weight: 300;
+font-size: 26px;
+padding: 13px 30px ;
+border: solid white 2px;
+color: white;
+margin: 0px 0px 0px 135px;
+border-radius: 6px;
+}
+
+.middle{
+    display:flex;
+    justify-content: space-between;
+    margin: 67px 96px 0px 96px;
+    align-items: center;
+    width: 1248px;
+
+}
+.sale{
+    font-family: 'Outfit';
+font-style: normal;
+font-weight: 500;
+font-size: 33px;
+}
+.view{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    color: #A28C8C;
+
+}
+.group1{
+    display: flex;
+    padding: 39px 96px 0px 96px;
+    width: 1248px;
+    justify-content:space-between;
+}
+.shorts{
+    padding: 0px 54px;
+}
+.name{
+    display: flex;
+    padding: 24px 96px 0px 96px;
+       
+}
+.shop1{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 33px;
+    line-height: 43px;
+    padding: 67px 0px 0px 96px;
+}
+.girls{
+    font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+padding: 0px 393px 0px 330px;
+}
+
+.fest{
+    font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+}
+.dada{
+    width: 487px;
+height: 479px;
+}
+.daba2{
+    width: 234px;
+height: 230px;
+padding: 0px 0px 20px 20px;
+}
+.all{
+    display: flex;
+    padding: 39px 96px 0px 96px;
+}
+.all2{
+    display: flex;
+}
+.hr{
+    width: 1248px;
+    margin: 105px 96px 0px 96px;
+    color: #D8D8D8;
+}
+.cloth{
+    font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+padding-top: 26px;
+}
+.tag{
+    font-family: 'Outfit';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 26px;
+padding-top: 16px;
+color: #A28C8C;
+
+}
